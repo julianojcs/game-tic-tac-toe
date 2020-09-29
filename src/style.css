@@ -49,3 +49,15 @@ ul {
 .game-info {
     margin-left: 20px;
 }
+
+.steps {
+    background-color: white;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+}
+
+.steps:hover {
+    text-decoration: underline;
+    text-decoration-color: crimson;
+}
