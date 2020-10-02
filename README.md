@@ -1,4 +1,4 @@
-﻿# react-game-tic-tac-toe
+﻿# A react tic-tac-toe game with Time Travel
 
 ## Available Scripts
 
